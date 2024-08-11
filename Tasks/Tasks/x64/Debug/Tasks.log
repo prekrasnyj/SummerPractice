@@ -1,8 +1,8 @@
-﻿  .c
-D:\Reps\SummerPractice\Tasks\Tasks\.c(21,42): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
-D:\Reps\SummerPractice\Tasks\Tasks\.c(22,16): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
-D:\Reps\SummerPractice\Tasks\Tasks\.c(22,56): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
-D:\Reps\SummerPractice\Tasks\Tasks\.c(22,69): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
-D:\Reps\SummerPractice\Tasks\Tasks\.c(22,82): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
-D:\Reps\SummerPractice\Tasks\Tasks\.c(7,12): warning C4244: инициализация: преобразование "double" в "const int", возможна потеря данных
-  Tasks.vcxproj -> D:\Reps\SummerPractice\Tasks\x64\Debug\Tasks.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Tasks.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  .c
+D:\Reps\SummerPractice\Tasks\Tasks\.c(15,42): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+D:\Reps\SummerPractice\Tasks\Tasks\.c(16,16): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+D:\Reps\SummerPractice\Tasks\Tasks\.c(16,56): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+D:\Reps\SummerPractice\Tasks\Tasks\.c(16,69): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+D:\Reps\SummerPractice\Tasks\Tasks\.c(16,82): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+  Tasks.vcxproj -> D:\Reps\SummerPractice\Tasks\x64\Debug\Task1 (11b).exe
