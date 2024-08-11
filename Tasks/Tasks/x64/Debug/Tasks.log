@@ -1,0 +1,8 @@
+﻿  .c
+D:\Reps\SummerPractice\Tasks\Tasks\.c(21,42): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+D:\Reps\SummerPractice\Tasks\Tasks\.c(22,16): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+D:\Reps\SummerPractice\Tasks\Tasks\.c(22,56): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+D:\Reps\SummerPractice\Tasks\Tasks\.c(22,69): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+D:\Reps\SummerPractice\Tasks\Tasks\.c(22,82): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+D:\Reps\SummerPractice\Tasks\Tasks\.c(7,12): warning C4244: инициализация: преобразование "double" в "const int", возможна потеря данных
+  Tasks.vcxproj -> D:\Reps\SummerPractice\Tasks\x64\Debug\Tasks.exe
