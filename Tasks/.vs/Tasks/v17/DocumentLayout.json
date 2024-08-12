@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Reps\\SummerPractice\\Tasks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6F648D9-462E-4DBA-98F7-649A80767FBC}|Tasks\\Tasks.vcxproj|D:\\Reps\\SummerPractice\\Tasks\\Tasks\\.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C6F648D9-462E-4DBA-98F7-649A80767FBC}|Tasks\\Tasks.vcxproj|solutionrelative:Tasks\\.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DFD1426B-275F-42D9-9CF8-832F073346B6}|Task3 (72a)\\Task3 (72a).vcxproj|D:\\Reps\\SummerPractice\\Tasks\\Task3 (72a)\\Task3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFD1426B-275F-42D9-9CF8-832F073346B6}|Task3 (72a)\\Task3 (72a).vcxproj|solutionrelative:Task3 (72a)\\Task3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6F648D9-462E-4DBA-98F7-649A80767FBC}|Tasks\\Tasks.vcxproj|D:\\Reps\\SummerPractice\\Tasks\\Tasks\\Task111b||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C6F648D9-462E-4DBA-98F7-649A80767FBC}|Tasks\\Tasks.vcxproj|solutionrelative:Tasks\\Task111b||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{694846A1-FFCF-4165-9EFA-BA1CC10FC053}|Task2 (58b)\\Task2 (58b).vcxproj|D:\\Reps\\SummerPractice\\Tasks\\Task2 (58b)\\Task2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{694846A1-FFCF-4165-9EFA-BA1CC10FC053}|Task2 (58b)\\Task2 (58b).vcxproj|solutionrelative:Task2 (58b)\\Task2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F648D9-462E-4DBA-98F7-649A80767FBC}|Tasks\\Tasks.vcxproj|D:\\Reps\\SummerPractice\\Tasks\\Tasks\\Task1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6F648D9-462E-4DBA-98F7-649A80767FBC}|Tasks\\Tasks.vcxproj|solutionrelative:Tasks\\Task1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".c",
-              "DocumentMoniker": "D:\\Reps\\SummerPractice\\Tasks\\Tasks\\.c",
-              "RelativeDocumentMoniker": "Tasks\\.c",
-              "ToolTip": "D:\\Reps\\SummerPractice\\Tasks\\Tasks\\.c",
-              "RelativeToolTip": "Tasks\\.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "DocumentIndex": 1,
+              "Title": "Task2.c",
+              "DocumentMoniker": "D:\\Reps\\SummerPractice\\Tasks\\Task2 (58b)\\Task2.c",
+              "RelativeDocumentMoniker": "Task2 (58b)\\Task2.c",
+              "ToolTip": "D:\\Reps\\SummerPractice\\Tasks\\Task2 (58b)\\Task2.c",
+              "RelativeToolTip": "Task2 (58b)\\Task2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-11T13:48:24.125Z",
+              "WhenOpened": "2024-08-12T06:38:19.857Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Task111b",
-              "DocumentMoniker": "D:\\Reps\\SummerPractice\\Tasks\\Tasks\\Task111b",
-              "RelativeDocumentMoniker": "Tasks\\Task111b",
-              "ToolTip": "D:\\Reps\\SummerPractice\\Tasks\\Tasks\\Task111b",
-              "RelativeToolTip": "Tasks\\Task111b",
+              "DocumentIndex": 0,
+              "Title": "Task3.c",
+              "DocumentMoniker": "D:\\Reps\\SummerPractice\\Tasks\\Task3 (72a)\\Task3.c",
+              "RelativeDocumentMoniker": "Task3 (72a)\\Task3.c",
+              "ToolTip": "D:\\Reps\\SummerPractice\\Tasks\\Task3 (72a)\\Task3.c",
+              "RelativeToolTip": "Task3 (72a)\\Task3.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-11T13:48:22.186Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-12T06:58:13.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task1.c",
+              "DocumentMoniker": "D:\\Reps\\SummerPractice\\Tasks\\Tasks\\Task1.c",
+              "RelativeDocumentMoniker": "Tasks\\Task1.c",
+              "ToolTip": "D:\\Reps\\SummerPractice\\Tasks\\Tasks\\Task1.c",
+              "RelativeToolTip": "Tasks\\Task1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-11T13:48:24.125Z",
+              "EditorCaption": ""
             }
           ]
         }

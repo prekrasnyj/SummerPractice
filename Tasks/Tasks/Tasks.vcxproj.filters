@@ -18,7 +18,7 @@
     <None Include="Task111b" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include=".c">
+    <ClCompile Include="Task1.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
