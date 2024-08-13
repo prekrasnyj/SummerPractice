@@ -1,3 +1,5 @@
+//Даны x, y, z.Вычислить a, b, если:
+
 #include <stdio.h>
 #include <math.h>
 
